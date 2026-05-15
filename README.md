@@ -121,6 +121,17 @@ git clone https://github.com/your-username/hasta-kala-shop.git
 * History Screen
 * Analytics Screen
 
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Analytics Screen
+![Analytics Screen](screenshots/analytics.png)
+
+### History Screen
+![History Screen](screenshots/history.png)
+
 ## Future Enhancements
 
 * Firebase Authentication
